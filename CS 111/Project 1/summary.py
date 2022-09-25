@@ -1,0 +1,13 @@
+#Print summary
+print('************************')
+print('GAME OVER')
+print('************************')
+print('Congrats, '+name+'!')
+print('Final Score:', sum(scores_list))
+print('Words played:')
+print(str(words_list[0])+"("+str(scores_list[0])+")")
+print(str(words_list[1])+"("+str(scores_list[1])+")")
+print(str(words_list[2])+"("+str(scores_list[2])+")")
+print(str(words_list[3])+"("+str(scores_list[3])+")")
+print(str(words_list[4])+"("+str(scores_list[4])+")")
+print(str(words_list[5])+"("+str(scores_list[5])+")")
